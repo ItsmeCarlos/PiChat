@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PiChat Logs 
+Comment=View the latest chat log
+Exec=mousepad /home/admin/pichat/logs/chat_log.txt
+Icon=text-x-generic
+Terminal=false
