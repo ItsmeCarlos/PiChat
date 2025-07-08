@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=PiChat
+Exec=lxterminal -e '/home/admin/pichat/venv/bin/python /home/admin/pichat/chat_ai.py'
+X-GNOME-Autostart-enabled=true
